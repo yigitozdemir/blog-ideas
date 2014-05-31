@@ -1,20 +1,20 @@
 -Yazılım
-    -Mobil
-        -Çok platformlu geliştirme
-        -Kurumsal Mobil uygulamalar
+    1. Mobil
+        1.1 Çok platformlu geliştirme
+        1.2 Kurumsal Mobil uygulamalar
         
-    -Büyük Veri
-        -Gelecekte büyük veri neler için kullanılacak.
+    2. Büyük Veri
+        2.1 Gelecekte büyük veri neler için kullanılacak.
         
-    -Web
-        -Web geliştirme teknolojileri
+    3. Web
+        3.1 Web geliştirme teknolojileri
         
 -Genel
 
 -Mühendislik
-    -Tahmin metodları ne kadar tahmin eder?
+    1. Tahmin metodları ne kadar tahmin eder?
     
 -Açık Kaynak
-    -Türkiyede açık kaynak
-    -Kurumsal işletmelerde açık kaynağın yeri
-    -Açık kaynak ve kamusal tasarruf.
+    1. Türkiyede açık kaynak
+    2. Kurumsal işletmelerde açık kaynağın yeri
+    3. Açık kaynak ve kamusal tasarruf.
