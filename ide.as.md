@@ -17,6 +17,7 @@
 
 * Mühendislik
     1. [ ] Tahmin metodları ne kadar tahmin eder?
+    2. [x] Mühendisler için Programlama Bilgisi Gerekli mi?
     
 
 * Açık Kaynak
